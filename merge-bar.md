@@ -1,10 +1,4 @@
-Thanks! Here's the updated **Privacy Policy** for **MergeBar**, reflecting that the GitLab token is sent in HTTPS request headers when calling the GitLab API:
-
----
-
 # MergeBar Privacy Policy
-
-**Privacy Policy**
 
 Privacy Policy for MergeBar macOS Application
 **Effective Date:** 20 June, 2025
